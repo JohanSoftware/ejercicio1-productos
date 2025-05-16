@@ -23,6 +23,9 @@ public class ProductController {
         products.add(new Product(nextId++, "Laptop", 1200.00));
         products.add(new Product(nextId++, "Mouse", 25.00));
         products.add(new Product(nextId++, "Teclado Mecánico", 90.00));
+        products.add(new Product(nextId++, "Monitor Curvo", 250.00));
+        products.add(new Product(nextId++, "Parlantes Bluetooth", 145.00));
+        products.add(new Product(nextId++, "Diadema Gamer Logitech", 100.00));
     }
 
     @GetMapping
