@@ -4,7 +4,7 @@
 
 - Se crearon las 5 historias de usuario en la rama main/docs/user-stories.md
 
-- Se relaziaron commits en la rama de feature/docuemtacion 
+- Se relaziaron commits en la rama de feature/documentacion 
 
 - Se realizaron pull request
 
